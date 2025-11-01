@@ -8,3 +8,4 @@ This project provides a simple Bash script to calculate **simple interest** base
 Run the script in your terminal:
 ```bash
 bash simple-interest.sh
+hehe
