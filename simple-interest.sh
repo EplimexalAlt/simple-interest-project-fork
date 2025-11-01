@@ -18,3 +18,5 @@ SI=$(echo "scale=2; ($P * $R * $T) / 100" | bc)
 echo "-----------------------------------"
 echo "Simple Interest = ₹$SI"
 echo "-----------------------------------"
+
+# This fle was modified for the sake of having a change si it cam be merged into main
